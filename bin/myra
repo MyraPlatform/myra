@@ -1,0 +1,4 @@
+#!/bin/bash
+# Myra Core Launcher
+
+python3 "$(dirname "$0")/../gui/main.py" "$@"
